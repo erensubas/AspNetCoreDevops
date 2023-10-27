@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreDevops", "AspNetCoreDevops\AspNetCoreDevops.csproj", "{145C7CD8-9BDF-48CC-9A73-59C1219B30CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreDevops.Test", "AspNetCoreDevops.Test\AspNetCoreDevops.Test.csproj", "{92778102-4627-4BC7-82E5-38CF7AA45D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145C7CD8-9BDF-48CC-9A73-59C1219B30CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145C7CD8-9BDF-48CC-9A73-59C1219B30CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145C7CD8-9BDF-48CC-9A73-59C1219B30CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145C7CD8-9BDF-48CC-9A73-59C1219B30CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92778102-4627-4BC7-82E5-38CF7AA45D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92778102-4627-4BC7-82E5-38CF7AA45D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92778102-4627-4BC7-82E5-38CF7AA45D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92778102-4627-4BC7-82E5-38CF7AA45D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488B27AB-86BF-48CE-B474-7259E0D5FB13}
+	EndGlobalSection
+EndGlobal
