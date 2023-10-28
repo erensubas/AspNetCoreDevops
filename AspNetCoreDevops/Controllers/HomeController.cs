@@ -20,7 +20,7 @@ namespace AspNetCoreDevops.Controllers
         {
             var model = _postRepository.GetPosts();
             return View(model);
-            //test change
+            //test change 2
         }
 
         public IActionResult Privacy()
